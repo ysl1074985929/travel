@@ -10,3 +10,5 @@ new Vue({
   store,
   render: h => h(App)
 }).$mount('#app')
+
+// 路由就是根据网址不同，返回不同的内容给用户
