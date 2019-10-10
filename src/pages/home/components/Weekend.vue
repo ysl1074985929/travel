@@ -2,7 +2,7 @@
     <div>
         <div class="title">周末去哪儿</div>
         <ul>
-            <li class="item border-bottom" v-for="item of recommendList" :key="item.id">
+            <li class="item border-bottom" v-for="item of list" :key="item.id">
                 <div class="item-img-wrapper">
                     <img class="item-img" :src="item.imgUrl">
                 </div>
@@ -20,26 +20,8 @@
 <script>
 export default {
     name: 'HomeWeekend',
-    data () {
-        return{
-            recommendList: [{
-                id: '0001',
-                imgUrl: 'http://img1.qunarzz.com/sight/source/1711/15/1cdd5ee885686b.jpg_r_640x214_46768064.jpg',
-                title: '厦门必打卡',
-                desc: '来厦门感受一把小资情调'
-            }, {
-                id: '0002',
-                imgUrl: 'http://img1.qunarzz.com/sight/source/1505/b3/671f666cc7845a.jpg_r_640x214_f977f30c.jpg',
-                title: '帆船游艇出海',
-                desc: '乘风破浪，直挂云帆济沧海，今天真正感受这个场景，感受迎风，横风，顺风的航行'
-            }, {
-                id: '0003',
-                imgUrl: 'http://img1.qunarzz.com/sight/source/1606/53/c5ebb7bf59681b.jpg_r_640x214_8cf5e397.jpg',
-                title: '游轮观光之旅',
-                desc: '乘坐游轮爱上厦门的高大上'
-            }, ]
-        }
-        
+    props: {
+        list: Array
     }
 }
 </script>
@@ -47,14 +29,13 @@ export default {
 <style lang="stylus" scoped>
     @import '~styles/mixins.styl'
     .title
-        margin-top .2rem
         line-height .8rem
         background-color #eee
         text-indent .2rem
     .item-img-wrapper
         overflow hidden
         height 0
-        padding-bottom 33.9%
+        padding-bottom 37.09%
         .item-img
             width 100%
     .item-info

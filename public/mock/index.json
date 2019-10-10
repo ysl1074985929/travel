@@ -1,0 +1,88 @@
+{
+    "ret": true,
+    "data": {
+        "city": "厦门",
+        "swiperList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/13/3f8c61c90ca78b02.jpg_750x200_de87b792.jpg"
+        }, {
+            "id": "0002",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1609/b6/1552bceb1cf7d002.jpg_750x200_d4cfad3e.jpg"
+        }, {
+            "id": "0003",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1701/c6/ffde478b37201002.jpg_750x200_4315dcea.jpg"
+        }, {
+            "id": "0004",
+            "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20199/1da597124bf7c6334bc35b0ed1e909a5.jpg_750x200_54343088.jpg"
+        }],
+        "iconList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+            "desc": "景点门票"
+        }, {
+            "id": "0002",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/50/26ffa31b56646402.png",
+            "desc": "亲子游"
+        }, {
+            "id": "0003",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+            "desc": "厦门必游"
+        }, {
+            "id": "0004",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/97/02f5043b51b2102.png",
+            "desc": "鼓浪屿"
+        }, {
+            "id": "0005",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png",
+            "desc": "一日游"
+        }, {
+            "id": "0006",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png",
+            "desc": "主题乐园"
+        }, {
+            "id": "0007",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+            "desc": "动植物园"
+        }, {
+            "id": "0008",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/fa/2548667cb6e902.png",
+            "desc": "展馆展览"
+        }, {
+            "id": "0009",
+            "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/89/55083b0f1951f302.png",
+            "desc": "游船观光"
+        }],
+        "recommendList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1506/f6/f6b727f036fe5d6d.water.jpg_200x200_a3c26b4d.jpg",
+            "title": "鼓浪屿",
+            "desc": "琴之岛，乐之屿"
+        },{
+            "id": "0002",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1902/91/919987896bca93ba3.img.jpg_200x200_adfcb3af.jpg",
+            "title": "厦门园林植物园",
+            "desc": "俗称“万石植物园”"
+        },{
+            "id": "0003",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1909/a3/a30be9e11758d2b7a3.img.jpg_110x110_e559938f.jpg",
+            "title": "厦门市园博苑",
+            "desc": "厦门国际园林博览苑"
+        }],
+        "weekendList": [{
+            "id": "0001",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1711/15/1cdd5ee885686b.jpg_r_640x214_46768064.jpg",
+            "title": "厦门必打卡",
+            "desc": "来厦门感受一把小资情调"
+        },{
+            "id": "0002",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1505/b3/671f666cc7845a.jpg_r_640x214_f977f30c.jpg",
+            "title": "帆船游艇出海",
+            "desc": "乘风破浪，直挂云帆济沧海，今天真正感受这个场景，感受迎风，横风，顺风的航行"
+        },{
+            "id": "0003",
+            "imgUrl": "http://img1.qunarzz.com/sight/source/1606/53/c5ebb7bf59681b.jpg_r_640x214_8cf5e397.jpg",
+            "title": "游轮观光之旅",
+            "desc": "乘坐游轮爱上厦门的高大上"
+        }]
+    }
+}
