@@ -28,6 +28,7 @@ export default {
 
 <style lang="stylus" scoped>
     @import '~styles/mixins.styl'
+    @import '~styles/varibles.styl'
     .title
         line-height .8rem
         background-color #eee
@@ -46,7 +47,7 @@ export default {
             ellipsis()
         .item-desc
             line-height .4rem
-            color #ccc
+            color $lightTextColor
             ellipsis()
         
 </style>

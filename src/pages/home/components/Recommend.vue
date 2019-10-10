@@ -27,6 +27,7 @@ export default {
 
 <style lang="stylus" scoped>
     @import '~styles/mixins.styl'
+    @import '~styles/varibles.styl'
     .title
         margin-top .2rem
         line-height .8rem
@@ -50,12 +51,12 @@ export default {
                 ellipsis()
             .item-desc
                 line-height .4rem
-                color #ccc
+                color $lightTextColor
                 ellipsis()
             .item-button
                 line-height .44rem
                 margin-top .16rem
-                background-color #ff9300
+                background-color $themeColor
                 padding 0 .2rem
                 border-radius .06rem
                 color #fff

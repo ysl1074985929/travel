@@ -54,6 +54,8 @@ export default {
         .Icons >>> .swiper-pagination
             position relative
             bottom -3.5rem
+        .Icons >>> .swiper-pagination-bullet-active
+            background-color $themeColor
         .Icons >>> .swiper-container
             height 0
             padding-bottom 50%
@@ -85,7 +87,7 @@ export default {
                     bottom 0
                     height  0.44rem
                     line-height 0.44rem
-                    color $darkTextColor
+                    color $bgColor
                     text-align center
                     ellipsis()
 </style>
