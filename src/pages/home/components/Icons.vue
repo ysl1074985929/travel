@@ -13,6 +13,7 @@
                     <p class="icon-desc">{{item.desc}}</p>
                 </div>
             </swiper-slide>
+            <div class="swiper-pagination"  slot="pagination"></div>
         </swiper>
     </div>
 </template>
@@ -26,6 +27,7 @@ export default {
     data () {
         return {
             swiperOption: {
+                pagination: '.swiper-pagination',
                 autoplay: false
             }
         }
@@ -49,6 +51,9 @@ export default {
 <style lang="stylus" scoped>
     @import "~styles/varibles.styl"
     @import "~styles/mixins.styl"
+        .Icons >>> .swiper-pagination
+            position relative
+            bottom -3.5rem
         .Icons >>> .swiper-container
             height 0
             padding-bottom 50%
