@@ -37,10 +37,9 @@ export default {
         .header-left
             width 0.64rem
             float left
-            .icon-back{
+            .icon-back
                 text-align center
                 font-size .4rem
-            }
         .header-input
             flex 1
             height .64rem
