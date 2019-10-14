@@ -2,16 +2,16 @@
     "ret": true,
     "data": {
         "swiperList": [{
-            "id": "0001",
+            "id": "0008",
             "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/13/3f8c61c90ca78b02.jpg_750x200_de87b792.jpg"
         }, {
-            "id": "0002",
+            "id": "0009",
             "imgUrl": "http://img1.qunarzz.com/piao/fusion/1609/b6/1552bceb1cf7d002.jpg_750x200_d4cfad3e.jpg"
         }, {
-            "id": "0003",
+            "id": "0001",
             "imgUrl": "http://img1.qunarzz.com/piao/fusion/1701/c6/ffde478b37201002.jpg_750x200_4315dcea.jpg"
         }, {
-            "id": "0004",
+            "id": "0010",
             "imgUrl": "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20199/1da597124bf7c6334bc35b0ed1e909a5.jpg_750x200_54343088.jpg"
         }],
         "iconList": [{

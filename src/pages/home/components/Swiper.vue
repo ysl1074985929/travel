@@ -1,8 +1,11 @@
 <template>
     <div class="wrapper">
         <swiper :options="swiperOption" v-if="showSwiper">
+            
             <swiper-slide v-for="item of list" :key='item.id'>
-                <img class="swiper-img" :src="item.imgUrl">
+                <router-link :to="'/detaile/' + item.id">
+                    <img class="swiper-img" :src="item.imgUrl">
+                </router-link>
             </swiper-slide>
             
             <div class="swiper-pagination"  slot="pagination"></div>
