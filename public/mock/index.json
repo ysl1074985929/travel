@@ -53,9 +53,9 @@
         }],
         "guessList": [{
             "id": "0001",
-            "price": "63.5",
-            "title": "钟鼓索道",
-            "imgUrl": "http://img1.qunarzz.com/sight/p0/1801/eb/eb3c7437b3f39e10a3.img.jpg_250x250_3a11d904.jpg"
+            "price": "50",
+            "title": "鼓浪屿",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1506/f6/f6b727f036fe5d6d.water.jpg_250x250_d22ecf6b.jpg"
         }, {
             "id": "0002",
             "price": "21",
@@ -81,6 +81,11 @@
             "price": "48",
             "title": "厦门园博苑",
             "imgUrl": "http://img1.qunarzz.com/sight/p0/1909/a3/a30be9e11758d2b7a3.img.jpg_250x250_fe0df9e3.jpg"
+        }, {
+            "id": "0007",
+            "price": "63",
+            "title": "钟鼓索道",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1801/eb/eb3c7437b3f39e10a3.img.jpg_250x250_3a11d904.jpg"
         }],
         "recommendList": [{
             "id": "0001",

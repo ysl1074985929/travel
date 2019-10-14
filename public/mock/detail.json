@@ -6,21 +6,36 @@
     "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1506/f6/f6b727f036fe5d6d.water.jpg_r_800x800_94ccd288.jpg",
       "http://img1.qunarzz.com/sight/p0/1905/70/706135ad3f10c621a3.img.jpg_r_800x800_666c144b.jpg"],
     "categoryList": [{
-        "title": "成人票",
-        "children": [{
-          "title": "成人三馆联票",
-          "children": [{
-            "title": "成人三馆联票 - 某一连锁店销售"
-          }]
-        },{
-          "title": "成人五馆联票"
-        }]
+        "title": "鼓浪屿往返船票自由行",
+        "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+        "time": "22:00前可订今日,预订后1小时30分钟可用",
+        "ps": [
+          "无需换票",
+          "条件退"
+        ],
+        "price": "50",
+        "btn": "预定"
       }, {
-        "title": "学生票"
+        "title": "鼓浪屿往返船票",
+        "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+        "time": "22:30前可订明日",
+        "ps": [
+          "无需换票",
+          "条件退"
+        ],
+        "price": "50",
+        "btn": "预定"
       }, {
-        "title": "儿童票"
-      }, {
-        "title": "特惠票"
+        "title": "【去哪儿精选】15人小团丨南普陀-鼓浪屿☆赠景观下午茶",
+        "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+        "time": "可订明日",
+        "ps": [
+          "条件退",
+          "无购物",
+          "已售1678"
+        ],
+        "price": "168",
+        "btn": "查看"
       }]
   }
 }
