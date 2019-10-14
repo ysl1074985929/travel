@@ -3,6 +3,7 @@
         <home-header></home-header>
         <home-swiper :list='swiperList'></home-swiper>
         <home-icons :list='iconList'></home-icons>
+        <home-guess :list='guessList'></home-guess>
         <home-recommend :list='recommendList'></home-recommend>
         <home-weekend :list='weekendList'></home-weekend>
     </div>
@@ -15,6 +16,7 @@ import HomeSwiper from './components/Swiper'
 import HomeIcons from './components/Icons'
 import HomeRecommend from './components/Recommend'
 import HomeWeekend from './components/Weekend'
+import HomeGuess from './components/Guess'
 import axios from 'axios'
 import { mapState } from 'vuex'
 export default {
@@ -24,7 +26,8 @@ export default {
         HomeSwiper,
         HomeIcons,
         HomeRecommend,
-        HomeWeekend
+        HomeWeekend,
+        HomeGuess
     },
     data () {
         return {
@@ -32,7 +35,8 @@ export default {
             swiperList: [],
             iconList: [],
             recommendList: [],
-            weekendList: []
+            weekendList: [],
+            guessList: []
         }
     },
     computed: {
@@ -51,6 +55,7 @@ export default {
                 this.iconList = data.iconList
                 this.recommendList = data.recommendList
                 this.weekendList = data.weekendList
+                this.guessList = data.guessList
             }
         }
     },

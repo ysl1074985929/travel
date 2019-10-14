@@ -51,6 +51,37 @@
             "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/89/55083b0f1951f302.png",
             "desc": "游船观光"
         }],
+        "guessList": [{
+            "id": "0001",
+            "price": "63.5",
+            "title": "钟鼓索道",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1801/eb/eb3c7437b3f39e10a3.img.jpg_250x250_3a11d904.jpg"
+        }, {
+            "id": "0002",
+            "price": "21",
+            "title": "同安影视城",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1906/a2/a297bbe33fd0b96fa3.img.jpg_250x250_72437267.jpg"
+        }, {
+            "id": "0003",
+            "price": "20",
+            "title": "胡里山炮台",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1902/5b/5b034b5e437f01dda3.img.jpg_250x250_81537e4b.jpg"
+        }, {
+            "id": "0004",
+            "price": "217",
+            "title": "厦门方特梦幻王国",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1706/e5/e563e6454d1771c2a3.img.jpg_250x250_e487af8b.jpg"
+        }, {
+            "id": "0005",
+            "price": "230",
+            "title": "灵玲国际马戏城",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1502/6b/6b079eb07e4b38c9.water.jpg_250x250_f3e25d1e.jpg"
+        }, {
+            "id": "0006",
+            "price": "48",
+            "title": "厦门园博苑",
+            "imgUrl": "http://img1.qunarzz.com/sight/p0/1909/a3/a30be9e11758d2b7a3.img.jpg_250x250_fe0df9e3.jpg"
+        }],
         "recommendList": [{
             "id": "0001",
             "imgUrl": "http://img1.qunarzz.com/sight/p0/1506/f6/f6b727f036fe5d6d.water.jpg_200x200_a3c26b4d.jpg",
