@@ -4,11 +4,15 @@
         <swiper :options="swiperOption">
             <!-- slides -->
             <swiper-slide v-for="item of list" :key="item.id">
-                <div  class="guess-wrapper">
+                <router-link
+                    tag='div'
+                    :to="'/detaile/' + item.id"
+                    class="guess-wrapper"
+                >
                     <img class="guess-img" :src="item.imgUrl">
                     <p class="guess-addTitle">{{item.title}}</p>
                     <p class="guess-price">￥{{item.price}}</p>
-                </div>
+                </router-link>
             </swiper-slide>  
             
         </swiper>

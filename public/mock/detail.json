@@ -1,41 +1,376 @@
 {
   "ret": true,
   "data": {
-    "sightName": "鼓浪屿(AAAAA景区)",
-    "bannerImg": "http://img1.qunarzz.com/sight/p0/1506/f6/f6b727f036fe5d6d.water.jpg_600x330_ae0eb039.jpg",
-    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/1506/f6/f6b727f036fe5d6d.water.jpg_r_800x800_94ccd288.jpg",
-      "http://img1.qunarzz.com/sight/p0/1905/70/706135ad3f10c621a3.img.jpg_r_800x800_666c144b.jpg"],
-    "categoryList": [{
-        "title": "鼓浪屿往返船票自由行",
-        "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
-        "time": "22:00前可订今日,预订后1小时30分钟可用",
-        "ps": [
-          "无需换票",
-          "条件退"
+      "guLangYu":{
+        "id": "0001",
+        "sightName": "鼓浪屿(AAAAA景区)",
+        "bannerImg": "http://img1.qunarzz.com/sight/p0/1506/f6/f6b727f036fe5d6d.water.jpg_600x330_ae0eb039.jpg",
+        "gallaryImgs": [
+          "http://img1.qunarzz.com/sight/p0/1506/f6/f6b727f036fe5d6d.water.jpg_r_800x800_94ccd288.jpg",
+          "http://img1.qunarzz.com/sight/p0/1905/70/706135ad3f10c621a3.img.jpg_r_800x800_666c144b.jpg",
+          "http://img1.qunarzz.com/sight/p0/1905/20/2049ae4ed7942d6fa3.img.jpg_350x240_934289c0.jpg",
+          "http://img1.qunarzz.com/sight/p0/1412/e4/dd8011b10e3bc076d321d2ef500e3f76.water.jpg_350x240_1fcbeb33.jpg",
+          "http://img1.qunarzz.com/sight/p0/1411/92/78a8ae1d1d12ed1f2555d27a050ec8f5.water.jpg_350x240_1ef101a2.jpg",
+          "http://img1.qunarzz.com/sight/p0/1411/65/3f0766d40516440eb114353be8698c95.water.jpg_350x240_05f7f7c1.jpg",
+          "http://img1.qunarzz.com/sight/p0/1412/36/4e213ef62e6a92f1d546bc1503ba3c22.water.jpg_350x240_d0b49f75.jpg",
+          "http://img1.qunarzz.com/sight/p0/1412/b9/49b7e20315d64de4632c518138578f06.water.jpg_350x240_bb017f39.jpg"
         ],
-        "price": "50",
-        "btn": "预定"
-      }, {
-        "title": "鼓浪屿往返船票",
-        "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
-        "time": "22:30前可订明日",
-        "ps": [
-          "无需换票",
-          "条件退"
+        "categoryList": [{
+            "title": "鼓浪屿往返船票自由行",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "22:00前可订今日,预订后1小时30分钟可用",
+            "ps": [
+              "无需换票",
+              "条件退"
+            ],
+            "price": "50",
+            "btn": "预订"
+          }, {
+            "title": "鼓浪屿往返船票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "22:30前可订明日",
+            "ps": [
+              "无需换票",
+              "条件退"
+            ],
+            "price": "50",
+            "btn": "预订"
+          }, {
+            "title": "【去哪儿精选】15人小团丨南普陀-鼓浪屿☆赠景观下午茶",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "条件退",
+              "无购物",
+              "已售1678"
+            ],
+            "price": "168",
+            "btn": "查看"
+          }]
+      },
+      "tongAnYingShi":{
+        "id": "0002",
+        "sightName": "同安影视城(AAA景区)",
+        "bannerImg": "http://img1.qunarzz.com/sight/p0/1906/a2/a297bbe33fd0b96fa3.img.jpg_600x330_634003f0.jpg",
+        "gallaryImgs": [
+          "http://img1.qunarzz.com/sight/p0/1906/a2/a297bbe33fd0b96fa3.img.jpg_350x240_d321b0fc.jpg",
+          "http://img1.qunarzz.com/sight/p0/1906/b3/b3a8debbf2bacd83a3.img.jpg_350x240_00e920fc.jpg",
+          "http://img1.qunarzz.com/sight/p0/1906/2d/2dcbed95eb63f429a3.img.jpg_350x240_a8a3a284.jpg",
+          "http://img1.qunarzz.com/sight/p0/1906/c1/c1e6a00b25be17d5a3.img.jpg_350x240_f77a7c55.jpg",
+          "http://img1.qunarzz.com/sight/p0/1906/71/712aba7811f22251a3.img.jpg_350x240_18be190d.jpg",
+          "http://img1.qunarzz.com/sight/p0/1906/cc/ccd2ec640315ced9a3.img.jpg_350x240_2b23ba99.jpg",
+          "http://img1.qunarzz.com/sight/p0/1906/b6/b62a6337127b3fcda3.img.jpg_350x240_e2463bca.jpg"
         ],
-        "price": "50",
-        "btn": "预定"
-      }, {
-        "title": "【去哪儿精选】15人小团丨南普陀-鼓浪屿☆赠景观下午茶",
-        "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
-        "time": "可订明日",
-        "ps": [
-          "条件退",
-          "无购物",
-          "已售1678"
+        "categoryList": [{
+            "title": "同安影视城成人大门票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "23:59前可订明日",
+            "ps": [
+              "自营",
+              "无需换票",
+              "条件退"
+            ],
+            "price": "24",
+            "btn": "预订"
+          }, {
+            "title": "【电子票】同安北辰山风景区成人票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "19:59前可订今日,预订后4小时可用",
+            "ps": [
+              "无需换票",
+              "条件退"
+            ],
+            "price": "23",
+            "btn": "预订"
+          }, {
+            "title": "金光湖成人票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "无需换票",
+              "随时退"
+            ],
+            "price": "22",
+            "btn": "预订"
+          }]
+      },
+      "huLiShan":{
+        "id": "0003",
+        "sightName": "胡里山炮台(AAAA景区)",
+        "bannerImg": "http://img1.qunarzz.com/sight/p0/1902/bf/bf1620611e06ee6a3.img.jpg_600x330_7309aca1.jpg",
+        "gallaryImgs": [
+          "http://img1.qunarzz.com/sight/p0/1902/b8/b83c1a3d42a13be9a3.img.jpg_350x240_2000372b.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/b0/b087d010243bcb40a3.img.jpg_350x240_1223fe83.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/b0/b087d010243bcb40a3.img.jpg_350x240_1223fe83.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/26/2695fb2424ac70f6a3.img.jpg_350x240_5fe6dd41.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/18/18a8502a45287b67a3.img.jpg_350x240_64dcb147.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/8e/8e283839021e47aa3.img.jpg_350x240_ec2cd8d4.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/5b/5b034b5e437f01dda3.img.jpg_350x240_267452c5.jpg"
         ],
-        "price": "168",
-        "btn": "查看"
-      }]
-  }
+        "categoryList": [{
+            "title": "【随买随用，快速入园】胡里山炮台成人票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "条件退"
+            ],
+            "price": "23",
+            "btn": "预订"
+          }, {
+            "title": "【随买随用】厦门胡里山炮台双人票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "18:00前随买随用",
+            "ps": [
+              "无需换票",
+              "条件退"
+            ],
+            "price": "43",
+            "btn": "预订"
+          }, {
+            "title": "【电子票】胡里山炮台成人票+手机电子导游",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "条件退"
+            ],
+            "price": "22",
+            "btn": "预订"
+          }]
+      },
+      "fangTe":{
+        "id": "0004",
+        "sightName": "厦门方特梦幻王国(AAAA景区)",
+        "bannerImg": "http://img1.qunarzz.com/sight/p0/1706/e5/e563e6454d1771c2a3.img.jpg_600x330_a9f0f96c.jpg",
+        "gallaryImgs": [
+          "http://img1.qunarzz.com/sight/p0/1706/e5/e563e6454d1771c2a3.img.jpg_350x240_bdda96bb.jpg",
+          "http://img1.qunarzz.com/sight/p0/1706/cd/cd8098eca9711c5ca3.img.jpg_350x240_a5c0b11e.jpg",
+          "http://img1.qunarzz.com/sight/p0/1706/3c/3c6406ccc0faad4ea3.img.jpg_350x240_d998cd46.jpg",
+          "http://img1.qunarzz.com/sight/p0/1706/c0/c001fa71f9ecf0cba3.img.jpg_350x240_3fc31862.jpg",
+          "http://img1.qunarzz.com/sight/p0/1706/61/619e5b65767d6f7ea3.img.jpg_350x240_c291c176.jpg",
+          "http://img1.qunarzz.com/sight/p0/1706/c1/c18b381abab05e50a3.img.jpg_350x240_10cdd44b.jpg"
+        ],
+        "categoryList": [{
+            "title": "【当日可订】厦门方特梦幻王国成人票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "无需换票",              
+              "随时退"
+            ],
+            "price": "299",
+            "btn": "预订"
+          }, {
+            "title": "【当日可订】厦门方特梦幻王国儿童票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "无需换票",              
+              "随时退"
+            ],
+            "price": "220",
+            "btn": "预订"
+          }, {
+            "title": "【当日可订】厦门方特梦幻王国长者票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "无需换票",              
+              "随时退"
+            ],
+            "price": "220",
+            "btn": "预订"
+          }]
+      },
+      "lingLing":{
+        "id": "0005",
+        "sightName": "灵玲国际马戏城",
+        "bannerImg": "http://img1.qunarzz.com/sight/p0/1502/6b/6b079eb07e4b38c9.water.jpg_600x330_5d36a4d7.jpg",
+        "gallaryImgs": [
+          "http://img1.qunarzz.com/sight/p0/1502/6b/6b079eb07e4b38c9.water.jpg_350x240_0cb592e6.jpg",
+          "http://img1.qunarzz.com/sight/p0/1502/e4/e482fddc96b614b4.water.jpg_350x240_6ba81624.jpg",
+          "http://img1.qunarzz.com/sight/p0/1502/9e/9e9bb61bb4c9b781.water.jpg_350x240_d6c77296.jpg",
+          "http://img1.qunarzz.com/sight/p0/1502/47/473821fc8f6eddf0.water.jpg_350x240_96b2e7d9.jpg",
+          "http://img1.qunarzz.com/sight/p0/1502/89/898cd3638d53e68d.water.jpg_350x240_7b7bac49.jpg",
+          "http://img1.qunarzz.com/sight/p0/1502/93/93215042ff13501d.water.jpg_350x240_2885106c.jpg",
+          "http://img1.qunarzz.com/sight/p0/1502/31/3143653596abca72.water.jpg_350x240_3f812fb3.jpg",
+          "http://img1.qunarzz.com/sight/p0/1502/86/8696181d680b850c.water.jpg_350x240_2628ab25.jpg"
+        ],
+        "categoryList": [{
+            "title": "【成人普座票】灵玲动物王国+马戏演出（13:30场）",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "条件退"
+            ],
+            "price": "230",
+            "btn": "预订"
+          }, {
+            "title": "【优惠人群普座票】动物王国观光+马戏演出票（13：30场）",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "条件退"
+            ],
+            "price": "140",
+            "btn": "预订"
+          }, {
+            "title": "【优惠人群VIP票】灵玲动物王国+马戏演出13:30",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "无需换票",              
+              "随时退"
+            ],
+            "price": "240",
+            "btn": "预订"
+          }]
+      },
+      "yuanBoYuan":{
+        "id": "0006",
+        "sightName": "厦门园博苑",
+        "bannerImg": "http://img1.qunarzz.com/sight/p0/1909/a3/a30be9e11758d2b7a3.img.jpg_600x330_2e213c62.jpg",
+        "gallaryImgs": [
+          "http://img1.qunarzz.com/sight/p0/1909/a3/a30be9e11758d2b7a3.img.jpg_350x240_62932824.jpg",
+          "http://img1.qunarzz.com/sight/p0/1909/45/458acfd1133fbdfda3.img.jpg_350x240_3abad5e2.jpg",
+          "http://img1.qunarzz.com/sight/p0/1811/84/84b132b31df45cdca3.img.jpg_350x240_4dbaa449.jpg",
+          "http://img1.qunarzz.com/sight/p0/1811/fb/fbca12b6fc58e047a3.img.jpg_350x240_cc0f473e.jpg",
+          "http://img1.qunarzz.com/sight/p0/1811/47/474b77eda4f0cdbfa3.img.jpg_350x240_d37214f8.jpg",
+          "http://img1.qunarzz.com/sight/p0/1811/ad/ad0acb11d1706722a3.img.jpg_350x240_ab7b2e92.jpg",
+          "http://img1.qunarzz.com/sight/p0/1811/28/28eea34f3c34d99ba3.img.jpg_350x240_879d4aa0.jpg",
+          "http://img1.qunarzz.com/sight/p0/1811/2f/2fc7e39063ae4ef6a3.img.jpg_350x240_75fe15f2.jpg"
+        ],
+        "categoryList": [{
+            "title": "厦门园博苑成人票(9月28-10月31市花展)",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "条件退"
+            ],
+            "price": "48",
+            "btn": "预订"
+          }, {
+            "title": "厦门园博苑军事展常规票  （大小同价）",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "无需换票",              
+              "随时退"
+            ],
+            "price": "68",
+            "btn": "预订"
+          }, {
+            "title": "厦门园博苑常规套票（园博苑+军事展）门票大小同价",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "条件退"
+            ],
+            "price": "109",
+            "btn": "预订"
+          }]
+      },
+      "zongGuSuoDao":{
+        "id": "0007",
+        "sightName": "钟鼓索道",
+        "bannerImg": "http://img1.qunarzz.com/sight/p0/1801/eb/eb3c7437b3f39e10a3.img.jpg_600x330_dee501e9.jpg",
+        "gallaryImgs": [
+          "http://img1.qunarzz.com/sight/p0/1801/eb/eb3c7437b3f39e10a3.img.jpg_350x240_8b17e0e9.jpg",
+          "http://img1.qunarzz.com/sight/p0/1801/29/2935a9add4f17a8fa3.img.jpg_350x240_eb7356c0.jpg",
+          "http://img1.qunarzz.com/sight/p0/1801/5f/5f17f7f3ac40e156a3.img.jpg_350x240_2887ae25.jpg",
+          "http://img1.qunarzz.com/sight/p0/1801/2f/2f26914d96868529a3.img.jpg_350x240_85394db1.jpg",
+          "http://img1.qunarzz.com/sight/p0/1801/2f/2f9e5cf8e8a10eaba3.img.jpg_350x240_39345562.jpg",
+          "http://img1.qunarzz.com/sight/p0/1801/15/15eb1add39141f79a3.img.jpg_350x240_e13938a7.jpg",
+          "http://img1.qunarzz.com/sight/p0/1801/4f/4fcb73f4b3c5b7fba3.img.jpg_350x240_1db85431.jpg",
+          "http://img1.qunarzz.com/sight/p0/1801/f8/f8626238bcd30446a3.img.jpg_350x240_c9eb74a9.jpg"
+        ],
+        "categoryList": [{
+            "title": "【去哪儿直销-随买随用】厦门钟鼓索道门票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "条件退"
+            ],
+            "price": "65",
+            "btn": "预订"
+          }, {
+            "title": "【当日可订】厦门方特梦幻王国儿童票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [
+              "自营",
+              "无需换票",              
+              "随时退"
+            ],
+            "price": "220",
+            "btn": "预订"
+          }, {
+            "title": "钟鼓索道门票+环鼓浪屿夜游门票成人票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [            
+              "随时退"
+            ],
+            "price": "180",
+            "btn": "预订"
+          }]
+      },
+      "yuanLinZhiWuYuan":{
+        "id": "0008",
+        "sightName": "厦门园林植物园(AAAA景区)",
+        "bannerImg": "http://img1.qunarzz.com/sight/p0/1902/8d/8d1ea5090af3e637a3.img.jpg_600x330_6f607d2d.jpg",
+        "gallaryImgs": [
+          "http://img1.qunarzz.com/sight/p0/1902/8d/8d1ea5090af3e637a3.img.jpg_350x240_75351d21.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/5b/5b24d85b7657b09aa3.img.jpg_350x240_959bb12e.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/4d/4de3a19c15d061b5a3.img.jpg_350x240_ac1b2302.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/5f/5f27671d110ca2d2a3.img.jpg_350x240_721a7a32.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/f4/f4cbb58b98bfd939a3.img.jpg_350x240_3568dcc5.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/49/491deb9fee453171a3.img.jpg_350x240_17991bf7.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/5d/5d18f8c572971d92a3.img.jpg_350x240_bf7b8d43.jpg",
+          "http://img1.qunarzz.com/sight/p0/1902/91/919987896bca93ba3.img.jpg_350x240_29d474a1.jpg"
+        ],
+        "categoryList": [{
+            "title": "【网红必打卡】厦门园林植物园成人票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "18:00前随买随用",
+            "ps": [
+              "自营",
+              "无需换票",              
+              "条件退"
+            ],
+            "price": "30",
+            "btn": "预订"
+          }, {
+            "title": "厦门园林植物园成人票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "18:30前随买随用",
+            "ps": [             
+              "随时退"
+            ],
+            "price": "30",
+            "btn": "预订"
+          }, {
+            "title": "厦门园林植物园+钟鼓索道成人套票",
+            "img": "https://img1.qunarzz.com/piao/fusion/1804/25/792e9929973a9902.png",
+            "time": "可订明日",
+            "ps": [  
+              "无需换票",              
+              "随时退"
+            ],
+            "price": "96",
+            "btn": "预订"
+          }]
+      }
+      
+    }
 }
