@@ -1,0 +1,43 @@
+{   
+    "ret": true,
+    "data": {
+        "address": [{
+            "id": "0001",
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/201309/24/2b3b1288998a63e8c8d65eac.jpg_640x276_7a6e5f3b.jpg",
+            "price": "89",
+            "title": "日光岩",
+            "desc": "登临日光岩，看云天近在咫尺"
+        }, {
+            "id": "0002",
+            "imgUrl": "https://imgs.qunarzz.com/sight/201406/05/4c43fb96f4ab2526c8d65eac.jpg_640x276_eb5f772d.jpg",
+            "price": "9",
+            "title": "南普陀寺",
+            "desc": "颇具佛教特色，更具“佛法无边”之威严"
+        }, {
+            "id": "0003",
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/1411/e3/0f7b95fb1cda4e3efba54ce6da12135c.water.jpg_640x276_7a6089c8.jpg",
+            "price": "9",
+            "title": "厦门大学",
+            "desc": "依山傍海，风景优美，建筑宏伟，独具特色"
+        }, {
+            "id": "0004",
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/1902/bf/bf1620611e06ee6a3.img.jpg_640x276_7166e2a8.jpg",
+            "price": "20",
+            "title": "胡里山炮台",
+            "desc": "八闽门户、天南锁钥"
+        }, {
+            "id": "0005",
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/1506/f6/f6b727f036fe5d6d.water.jpg_640x276_a44eddd7.jpg",
+            "price": "39",
+            "title": "鼓浪屿",
+            "desc": "琴之岛，乐之屿"
+        }, {
+            "id": "0006",
+            "imgUrl": "https://imgs.qunarzz.com/sight/p0/201304/10/0c1584df42ded544c8d65eac.jpg_640x276_3437a230.jpg",
+            "price": "9",
+            "title": "曾厝垵",
+            "desc": "这里只有质朴的民居和文艺小清新的小店"
+        }]
+    }
+    
+}
