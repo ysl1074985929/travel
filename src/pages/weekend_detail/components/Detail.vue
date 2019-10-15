@@ -7,7 +7,13 @@
             {{info.header}}
         </div>
 
-        <div class="weekend-address" v-for="item of info.dataIn" :key='item.id'>
+        <router-link 
+            tag='div'
+            :to="'/detaile/' + item.id"
+            class="weekend-address" 
+            v-for="item of info.dataIn" 
+            :key='item.id'
+        >
             <img class="weekend-img" :src="item.imgUrl">
             <div class="weekend-address-info">
                 <div class="weekend-price">
@@ -23,7 +29,7 @@
                     </p>
                 </div>
             </div>
-        </div>
+        </router-link >
 
     </div>
 </template>
@@ -34,12 +40,7 @@ export default {
     props: {
         info: Object
     }
-    // data () {
-    //     return {
-    //         list: info.dataIn
-    //     }
-    // }
-
+    
 }
 </script>
 
