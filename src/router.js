@@ -3,7 +3,7 @@ import Router from 'vue-router'
 import Home from '@/pages/home/Home.vue'
 import City from '@/pages/city/City.vue'
 import Detaile from '@/pages/detaile/Detaile.vue'
-import WeekenDetail from '@/pages/weekend_detail/WeekenDetail.vue'
+import Weekend from '@/pages/weekend_detail/Weekend.vue'
 
 Vue.use(Router)
 
@@ -24,8 +24,8 @@ export default new Router({
     component: Detaile
   }, {
     path: '/weekend_detail/:id',
-    name: 'WeekenDetail',
-    component: WeekenDetail
+    name: 'Weekend',
+    component: Weekend
   }],
   // 使用keep-alive标签后部分安卓机返回缓存页位置不精确问题
   scrollBehavior (to, from, savedPosition) {

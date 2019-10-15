@@ -4,10 +4,10 @@
             <router-link to="/">
                 <div class="iconfont header-fixed-back">&#xe667;</div>
             </router-link>
-            厦门必打卡
+            {{info.header}}
         </div>
 
-        <div class="weekend-address" v-for="(item) of address" :key='item.id'>
+        <div class="weekend-address" v-for="item of info.dataIn" :key='item.id'>
             <img class="weekend-img" :src="item.imgUrl">
             <div class="weekend-address-info">
                 <div class="weekend-price">
@@ -29,31 +29,17 @@
 </template>
 
 <script>
-import axios from 'axios'
 export default {
     name: 'WeekendDetail',
-    data () {
-        return {
-            address: this.address
-        }
-    },
-    methods:{
-        getWeekendDetailInfo () {
-            axios.get('/api/weekend-detail.json',)
-                .then(this.handleGetWeekenfInfoSucc)
-        },
-        handleGetWeekenfInfoSucc (res) {
-            res = res.data
-            if (res.ret && res.data) {
-                const data = res.data
-                this.address = data.address
-            }
-        }
-    },
-    mounted () {
-        // mounted的时候请求 ajax，获取数据
-        this.getWeekendDetailInfo()
+    props: {
+        info: Object
     }
+    // data () {
+    //     return {
+    //         list: info.dataIn
+    //     }
+    // }
+
 }
 </script>
 

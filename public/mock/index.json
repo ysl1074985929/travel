@@ -1,6 +1,6 @@
 {
     "ret": true,
-    "data": {
+    "data": { 
         "swiperList": [{
             "id": "0008",
             "imgUrl": "http://img1.qunarzz.com/piao/fusion/1712/13/3f8c61c90ca78b02.jpg_750x200_de87b792.jpg"
@@ -115,9 +115,9 @@
             "desc": "乘风破浪，直挂云帆济沧海，今天真正感受这个场景，感受迎风，横风，顺风的航行"
         },{
             "id": "0003",
-            "imgUrl": "http://img1.qunarzz.com/sight/source/1606/53/c5ebb7bf59681b.jpg_r_640x214_8cf5e397.jpg",
-            "title": "游轮观光之旅",
-            "desc": "乘坐游轮爱上厦门的高大上"
+            "imgUrl": "https://imgs.qunarzz.com/sight/source/1505/81/b178edc1197700.jpg_r_640x214_9acee897.jpg",
+            "title": "厦门娱乐万岁",
+            "desc": "谁说来厦门就要去鼓浪屿？其实不登鼓浪屿也有新玩法，去探寻你不知道的海底世界"
         }]
     }
 }

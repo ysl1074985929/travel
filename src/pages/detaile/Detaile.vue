@@ -41,6 +41,8 @@ export default {
             }).then(this.handleGetDataSucc)
         },
         handleGetDataSucc (res) {
+            console.log(res)
+
             let Address = ['']
             //获取跳转地址
             // console.log(this.$route.params.id)
