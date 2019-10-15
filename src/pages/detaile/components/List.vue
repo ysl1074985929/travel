@@ -58,6 +58,7 @@ export default {
             padding .2rem
             width 5rem
             line-height .52rem
+            font-size .32rem
             .item-title-icon
                 position relative
                 left 0.06rem
