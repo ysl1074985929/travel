@@ -1,47 +1,42 @@
 <template>
     <div class="content">
-        <div class="content-wrapper">
+        <router-link 
+            tag='div'
+            class="content-wrapper" 
+            v-for="item of list" 
+            :key='item.id'
+            :to="'/detaile/' + item.id"
+        >
 
             <div class="content-top border-bottom">
-                <div class="conten-img">
-                    <img src="https://imgs.qunarzz.com/sight/p0/1902/91/919987896bca93ba3.img.jpg_110x110_510b7f01.jpg">
+                <div class="content-img">
+                    <img class="imgIn" :src="item.minImg">
                 </div>
                 <div class="content-desc">
-                    <p class="content-add-name">鼓浪屿</p>
+                    <p class="content-add-name">{{item.sightName}}</p>
                     <p class="content-add-price">
-                        <span class="font-color">￥</span><span class="font-color big-font">39</span> 
+                        <span class="font-color">￥</span><span class="font-color big-font">{{item.minPrice}}</span> 
                     起
                     </p>
                     <ul>
-                        <span>
-                            条件退 无需换票
+                        <span class="ulSpan" v-for="(item, index) of item.categoryList" :key='index'>
+                            {{item.ps[0]}}
                         </span>
                     </ul>
                 </div>
                 
             </div>
-
-            <div class="content-ticket-list border-bottom">
-                <div class="conten-ticket-price">
-                    ￥<span class="ticket-price-font">30</span>
-                </div>
-                <div class="content-ticket-name">厦门植物园</div>
-            </div>
-
-            <div class="content-ticket-list border-bottom">
-                <div class="conten-ticket-price">
-                    ￥<span class="ticket-price-font">30</span>
-                </div>
-                <div class="content-ticket-name">厦门植物园</div>
-            </div>
-
-        </div>
+        </router-link>
     </div>    
 </template>
 
 <script>
+
 export default {
-    name: 'TicketContent'
+    name: 'TicketContent',
+    props: {
+        list: Object
+    }
 }
 </script>
 
@@ -69,7 +64,11 @@ export default {
                             color $themeColor
                         .big-font
                             font-size .5rem
-                .conten-img
+                    .ulSpan
+                        margin-left .2rem
+                        border-radius .06rem
+                        border 1px solid $bgColor
+                .content-img
                     flex 1
             .content-ticket-list
                 padding .2rem .4rem
