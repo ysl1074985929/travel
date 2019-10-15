@@ -7,10 +7,12 @@
                     v-for='item of page'
                     :key='item.id'
                 >
-                    <div class="icon-img">
-                        <img class="icon-img-content" :src="item.imgUrl">
-                    </div>
-                    <p class="icon-desc">{{item.desc}}</p>
+                    <router-link to='/ticket'>
+                        <div class="icon-img">
+                            <img class="icon-img-content" :src="item.imgUrl">
+                        </div>
+                        <p class="icon-desc">{{item.desc}}</p>
+                    </router-link>
                 </div>
             </swiper-slide>
             <div class="swiper-pagination"  slot="pagination"></div>

@@ -71,7 +71,7 @@ export default {
             .item-min
                 color  $bgColor
                 margin  .2rem 0
-                font-size .1rem
+                font-size .24rem
                 .item-min-mig
                     width .2rem
                     margin-top -.05rem
